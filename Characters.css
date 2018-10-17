@@ -1,0 +1,26 @@
+h1
+{
+     color: blue;
+     text-align: center;
+}
+
+div
+{
+     border: 2px solid black;
+     height: 45px;
+     width: 120px;
+     border-radius: 5px;
+     text-align: center;
+     display: inline-block;
+     vertical-align: top;
+}
+
+a
+{
+     color: blue;
+}
+
+h3
+{
+     color: #A272FF;
+}
